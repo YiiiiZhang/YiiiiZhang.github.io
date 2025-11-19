@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img_slack_web.jpg"
+  avatar           : "files/img_slack_web.jpg"
   name             : "Yi Zhang(张懿)"
   pronouns         : # example: "she/her"  
   bio              : "MSc.Data Science at Erlangen Nuremberg University,FAU (HBen_ZY@outlook.com)"
