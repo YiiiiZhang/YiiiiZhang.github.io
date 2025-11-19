@@ -26,7 +26,7 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 - Built facial detection and recognition pipelines using YOLOv8 and InsightFace.  
 - Proposed a spatial–temporal emotion monitoring framework using GS-convolution multi-scale features and a frame sequence predictor, achieving **67.5% accuracy on the DFEW dataset**.
 
-**Third Place – iFLYTEK Algorithm Challenge (Autonomous Driving & Driver Fatigue Detection)**  
+**iFLYTEK Algorithm Challenge (Autonomous Driving & Driver Fatigue Detection)-Third Place**  
 **May 2022 – Jun 2022**  
 *Skills: Image classification, facial detection*
 
