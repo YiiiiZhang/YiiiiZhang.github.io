@@ -11,7 +11,7 @@ redirect_from:
 I am a research-oriented graduate student specializing in **Computer Vision**, **Natural Language Processing**, and **Multimodal Learning**. My work includes developing deep learning models for image recognition, emotion analysis, object detection, and LLM post-training. I am proficient in **Python**, **PyTorch**, **OpenCV**, and have strong experience in research projects, dataset construction, and model optimization.
 
 ## Research Projects
-### **Do LLMs Think Like the Brain? Neural Predictivity and Anatomical Alignment in Narrative Comprehension**  
+**Do LLMs Think Like the Brain? Neural Predictivity and Anatomical Alignment in Narrative Comprehension**  
 **Feb 2025 – May 2025**  
 *Skills: Text data processing, LLM fine-tuning, embedding analysis*
 
