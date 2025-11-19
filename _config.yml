@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "MSc.Data Science at Erlangen Nuremberg University,FAU (HBen_ZY@outlook.com)"
   location         : "Nuremberg, Germany"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  #email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
