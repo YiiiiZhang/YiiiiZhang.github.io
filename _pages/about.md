@@ -18,7 +18,7 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 - Fine-tuned large language models to align with cognitive tasks related to narrative comprehension.  
 - Extracted embeddings from 16 different models and evaluated inter-model similarities using CKA metrics.
 
-### **A Multimodal Assessment Model and Intervention Study of Student Participation in Collaborative Learning**  
+**A Multimodal Assessment Model and Intervention Study of Student Participation in Collaborative Learning**  
 **Oct 2022 – Sep 2024**  
 *Skills: Video-based classification, long-tail data*
 
@@ -26,7 +26,7 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 - Built facial detection and recognition pipelines using YOLOv8 and InsightFace.  
 - Proposed a spatial–temporal emotion monitoring framework using GS-convolution multi-scale features and a frame sequence predictor, achieving **67.5% accuracy on the DFEW dataset**.
 
-### **Third Place – iFLYTEK Algorithm Challenge (Autonomous Driving & Driver Fatigue Detection)**  
+**Third Place – iFLYTEK Algorithm Challenge (Autonomous Driving & Driver Fatigue Detection)**  
 **May 2022 – Jun 2022**  
 *Skills: Image classification, facial detection*
 
@@ -36,23 +36,16 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 
 
 ## Publications
+### 2025
+Yu Lei*, Xingyang Ge*, **Yi Zhang**, Yiming Yang, Bolei Ma. Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings. **AAAI 2026**. [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:9yKSN-GCB0IC)][[code](https://github.com/Lucasuuu02/LLM4Brain)]  
 
-### **APSIPA ASC 2024 (Accepted)**  
-**MTFNet: Multi-Scale Transformer Framework for Robust Emotion Monitoring in Group Learning**
-
-### **EMNLP 2025 (Main, Accepted)**  
-**M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis**
-
-### **AAAI 2026 (Accepted)**  
-**Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings**
-
-### **ICASSP 2026 (Submitted)**  
-**Evaluating Persona-Based Storytelling in Speech Language Models**
-
+Chengyan Wu, Bolei Ma, Yihong Liu, Zheyu Zhang, Ningyuan Deng, Yanshu Li, Baolan Chen, **Yi Zhang**, Yun Xue, Barbara Plank. M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis. **EMNLP 2025 Main**.[[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:d1gkVwhDpl0C)][[Huggingface](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)]    
+### 2024
+**Yi Zhang**, FangYuan Liu, JiaJia Song, Qi Zeng, Hui He. MTFNet: Multi-Scale Transformer Framework for Robust Emotion Monitoring in Group Learning Settings. **APSIPA ASC 2024**. [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:u-x6o8ySG0sC)][[code](https://github.com/YiiiiZhang/MTFNet)]   
 
 ## Experience
 
-### **Research Assistant – Social Data Science and AI Lab, LMU Munich**  
+**Research Assistant – Social Data Science and AI Lab, LMU Munich**  
 **Feb 2025 – Present**
 
 - Preprocessed large-scale language and social media data for NLP tasks.  
@@ -60,7 +53,7 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 - Assisted in academic writing, experiment design, and results reporting.
 
 
-### **Algorithm Engineer Intern – ATA Assessment Technology (Beijing)**  
+**Algorithm Engineer Intern – ATA Assessment Technology (Beijing)**  
 **Jun 2023 – Aug 2023**
 
 - Processed 100K human detection samples and 1K keypoint samples from real-world dance scenarios.  
@@ -69,16 +62,16 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 
 ## Education
 
-### **Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU)**  
-**M.Sc. in Data Science**  
-**Oct 2024 – Present**
+**Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU)**  
+MSc. in Data Science  
+Oct 2024 – Present
 
 - Focus: Machine Learning & Artificial Intelligence  
 - Coursework: Artificial Intelligence I, Pattern Recognition
 
-### **Beijing Normal University, Zhuhai (BNUZ)**  
-**B.Eng. in Computer Science and Technology**  
-**Sep 2020 – Jun 2024**
+**Beijing Normal University, Zhuhai (BNUZ)**  
+B.Eng. in Computer Science and Technology 
+Sep 2020 – Jun 2024**
 
 - Final Grade: **87/100 (Top 5%)**  
 - Focus: Computer Vision, Emotion Recognition  
