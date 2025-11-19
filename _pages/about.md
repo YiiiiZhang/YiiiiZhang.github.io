@@ -11,14 +11,12 @@ redirect_from:
 I am a research-oriented graduate student specializing in **Computer Vision**, **Natural Language Processing**, and **Multimodal Learning**. My work includes developing deep learning models for image recognition, emotion analysis, object detection, and LLM post-training. I am proficient in **Python**, **PyTorch**, **OpenCV**, and have strong experience in research projects, dataset construction, and model optimization.
 
 ## Research Projects
-
 ### **Do LLMs Think Like the Brain? Neural Predictivity and Anatomical Alignment in Narrative Comprehension**  
 **Feb 2025 – May 2025**  
 *Skills: Text data processing, LLM fine-tuning, embedding analysis*
 
 - Fine-tuned large language models to align with cognitive tasks related to narrative comprehension.  
 - Extracted embeddings from 16 different models and evaluated inter-model similarities using CKA metrics.
-
 
 ### **A Multimodal Assessment Model and Intervention Study of Student Participation in Collaborative Learning**  
 **Oct 2022 – Sep 2024**  
@@ -27,7 +25,6 @@ I am a research-oriented graduate student specializing in **Computer Vision**, *
 - Collected and labeled classroom video/audio data using custom annotation tools; performed hardware calibration for camera systems.  
 - Built facial detection and recognition pipelines using YOLOv8 and InsightFace.  
 - Proposed a spatial–temporal emotion monitoring framework using GS-convolution multi-scale features and a frame sequence predictor, achieving **67.5% accuracy on the DFEW dataset**.
-
 
 ### **Third Place – iFLYTEK Algorithm Challenge (Autonomous Driving & Driver Fatigue Detection)**  
 **May 2022 – Jun 2022**  
