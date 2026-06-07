@@ -31,7 +31,7 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
     <div style="font-weight: bold; font-size: 16px;">May 2025</div>
-    <p><strong>EMNLP 2025 Main Accepted!</strong> M-ABSA (Multilingual Aspect-Based Sentiment Analysis) dataset is now accepted at EMNLP 2025. Excited to contribute to multilingual NLP research. [[dataset](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)]</p>
+    <p><strong>EMNLP 2025 Main Accepted!</strong> M-ABSA (Multilingual Aspect-Based Sentiment Analysis) dataset is now accepted at EMNLP 2025. Excited to contribute to multilingual NLP research. [dataset](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)</p>
   </div>
 </div>
 
@@ -46,8 +46,15 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
 <div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
-    <div style="font-weight: bold; font-size: 16px;">January 2025</div>
+    <div style="font-weight: bold; font-size: 16px;">Aug 2025</div>
     <p><strong>Summited Zugspitze by Night!</strong> Completed a night hike of Germany's highest peak, reaching the 2,962m summit under the stars. An unforgettable adventure combining mountain spirit with personal reflection.</p>
+  </div>
+</div>
+<div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
+  <div style="position: relative;">
+    <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
+    <div style="font-weight: bold; font-size: 16px;">May 2025</div>
+    <p><strong>Walked the Camino de Santiago!</strong> Completed 100 km of Spain's famous pilgrimage route and earned my official pilgrim credential. A journey blending physical challenge with reflection on life's purpose.</p>
   </div>
 </div>
 
@@ -56,14 +63,6 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
     <div style="font-weight: bold; font-size: 16px;">October 2024</div>
     <p><strong>Started M.Sc. in Data Science at FAU</strong>. Began graduate studies in Germany, focusing on Machine Learning and Artificial Intelligence with an emphasis on cutting-edge AI methods.</p>
-  </div>
-</div>
-
-<div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
-  <div style="position: relative;">
-    <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
-    <div style="font-weight: bold; font-size: 16px;">September 2024</div>
-    <p><strong>Walked the Camino de Santiago!</strong> Completed 100 km of Spain's famous pilgrimage route and earned my official pilgrim credential. A journey blending physical challenge with reflection on life's purpose.</p>
   </div>
 </div>
 
