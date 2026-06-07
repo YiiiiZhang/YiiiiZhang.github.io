@@ -22,7 +22,7 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
 <div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
-    <div style="font-weight: bold; font-size: 16px;">June 2026</div>
+    <div style="font-weight: bold; font-size: 16px;"> Dec 2025</div>
     <p><strong>AAAI 2026 Accepted!</strong> Our paper "Do Large Language Models Think Like the Brain?" has been accepted. This work explores how LLM representations align with human brain activity during language comprehension. [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:9yKSN-GCB0IC)]</p>
   </div>
 </div>
@@ -30,16 +30,8 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
 <div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
-    <div style="font-weight: bold; font-size: 16px;">May 2025</div>
+    <div style="font-weight: bold; font-size: 16px;">Sep 2025</div>
     <p><strong>EMNLP 2025 Main Accepted!</strong> M-ABSA (Multilingual Aspect-Based Sentiment Analysis) dataset is now accepted at EMNLP 2025. Excited to contribute to multilingual NLP research. [dataset](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)</p>
-  </div>
-</div>
-
-<div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
-  <div style="position: relative;">
-    <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
-    <div style="font-weight: bold; font-size: 16px;">February 2025</div>
-    <p><strong>Joined SODA Lab, LMU Munich</strong> as a part-time Research Assistant. Leading the development of ChinaHeritaQA benchmark and contributing to human-centered AI projects.</p>
   </div>
 </div>
 
@@ -50,11 +42,20 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
     <p><strong>Summited Zugspitze by Night!</strong> Completed a night hike of Germany's highest peak, reaching the 2,962m summit under the stars. An unforgettable adventure combining mountain spirit with personal reflection.</p>
   </div>
 </div>
+
 <div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
     <div style="font-weight: bold; font-size: 16px;">May 2025</div>
     <p><strong>Walked the Camino de Santiago!</strong> Completed 100 km of Spain's famous pilgrimage route and earned my official pilgrim credential. A journey blending physical challenge with reflection on life's purpose.</p>
+  </div>
+</div>
+
+<div style="border-left: 3px solid #4a90e2; padding-left: 20px; margin-bottom: 30px;">
+  <div style="position: relative;">
+    <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
+    <div style="font-weight: bold; font-size: 16px;">February 2025</div>
+    <p><strong>Joined SODA Lab, LMU Munich</strong> as a part-time Research Assistant. Supporting research work in the laboratory</p>
   </div>
 </div>
 
