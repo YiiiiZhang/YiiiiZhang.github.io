@@ -11,80 +11,59 @@ redirect_from:
 
 ## Education
 
-**Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany**
-* M.Sc. in Data Science
-* Oct 2024 – Present
-* Main area: Machine Learning and Artificial Intelligence
-* Coursework: Artificial Intelligence I, Pattern Recognition
+* **M.Sc. in Data Science** — Friedrich-Alexander-Universität Erlangen–Nürnberg (FAU), Germany | Oct 2024 – Present
+  * Focus: Machine Learning and Artificial Intelligence
+  * Coursework: Artificial Intelligence I, Pattern Recognition
 
-**Beijing Normal University, Zhuhai (BNUZ), China**
-* B.Eng. in Computer Science and Technology
-* Sep 2020 – Jun 2024
-* Final Grade: 87/100 (Top 5%)
-* Focus: Computer Vision, Emotion Recognition, Deep Learning
+* **B.Eng. in Computer Science & Technology** — Beijing Normal University, Zhuhai (BNUZ), China | Sep 2020 – Jun 2024
+  * Final Grade: 87/100 (Top 5%)
+  * Focus: Computer Vision, Emotion Recognition, Deep Learning
 
-## Professional Experience
+## Work Experience
 
-**Research Assistant – SODA Lab, LMU Munich**
-* Feb 2025 – Present
-* NLP, LLM fine-tuning, social and cognitive language analysis
-  * Contributing to multiple human-centered AI research projects including M-ABSA benchmark construction, LLM4Brain study, and leading ChinaHeritaQA benchmark development
-  * Managing lab-level HPC access permissions and approval workflows
-  * Contributing to user guidelines improving efficient use of server storage and computational resources
+* **Research Assistant** — SODA Lab, LMU Munich | Feb 2025 – Present
+  * Lead development of ChinaHeritaQA benchmark (first-author work submitted to EMNLP 2026)
+  * Contribute to human-centered AI projects: M-ABSA multilingual dataset, LLM4Brain study
   * Teaching assistant for *Seminar: Natural Language Processing Meets Computational Social Science*
+  * Manage lab infrastructure: HPC access, resource allocation, documentation
 
-**Algorithm Engineer Intern – ATA Assessment Technology, Beijing**
-* Jun 2023 – Aug 2023
-* Computer vision, human detection, pose estimation, deployment-oriented evaluation
-  * Processed 100K human detection samples and 1K keypoint samples from real-world dance scenarios
-  * Benchmarked YOLOv8, PP-Detection, MediaPipe, and TinyPose for practical assessment scenarios
-  * Improved human detection accuracy by 3% and keypoint estimation accuracy by 10%
+* **Algorithm Engineer Intern** — ATA Assessment Technology, Beijing | Jun 2023 – Aug 2023
+  * Benchmarked YOLOv8, PP-Detection, MediaPipe, TinyPose on 100K+ dance assessment samples
+  * Improved human detection by 3%, pose estimation by 10% through systematic optimization
+  * Deployed models for real-world assessment scenarios
 
-## Research Projects & Benchmarks
+## Research & Projects
 
-**ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Benchmark**
-* May 2025 – Present
-* Cross-cultural VLM evaluation, factuality, hallucination analysis (First-author work)
-  * Developed bilingual VQA benchmark with 2,279 in-the-wild images and 14,133 Chinese/English QA pairs
-  * Evaluated 6 open-weight VLMs against human baseline on UNESCO World Heritage sites
-  * Analyzed VLM failure modes including same-type site confusion, weak image-to-period grounding, image-to-function grounding, and cultural bias
+* **ChinaHeritaQA: Culturally-Grounded VQA Benchmark** *(First-author, EMNLP 2026 under review)* | May 2025 – Present
+  * 2,279 real-world images, 14,133 bilingual Q&A pairs on Chinese UNESCO World Heritage sites
+  * Evaluated 6 open-weight VLMs; revealed perception-reasoning gap in cultural/historical tasks
+  * Analyzed failure modes: site confusion, weak grounding, cultural bias
 
-**LLM–Brain Alignment in Narrative Comprehension**
-* Feb 2025 – May 2025
-* LLM embedding extraction, CKA similarity analysis
-  * Extracted layer-wise sentence embeddings from multiple LLMs on bilingual *The Little Prince* stimuli
-  * Implemented CKA-based similarity computation to compare inter-layer and inter-model representation structures
-  * Prepared embedding tensors and similarity matrices for downstream alignment with sentence-level fMRI responses
+* **LLM–Brain Alignment in Narrative Comprehension** *(Co-author, AAAI 2026 accepted)* | Feb 2025 – May 2025
+  * Extracted layer-wise embeddings from multiple LLMs on bilingual *Little Prince* passages
+  * Computed CKA similarity metrics between LLM representations and fMRI brain scans
+  * Found alignment in representational structures between neural networks and human brain
 
-**Multimodal Emotion Monitoring in Collaborative Learning**
-* Oct 2022 – Sep 2024
-* Human-centered multimodal learning, affective computing, long-tail classroom data (First-author work)
-  * Collected, synchronized, and annotated classroom video/audio data
-  * Built multimodal perception pipeline with face detection, identity recognition, and temporal emotion modeling
-  * Proposed MTFNet framework achieving 67.5% accuracy on DFEW dataset
-  * Publication: APSIPA ASC 2024
+* **Audio-Based Depression Detection** *(In progress)* | Nov 2025 – Apr 2026
+  * Built preprocessing pipeline for noisy counseling audio (denoising, transcription, diarization)
+  * Compared MFCC-BiLSTM and Wav2Vec models with subject-level splits and class-balanced loss
+  * Identified task boundaries: audio-only struggles with mood changes and complex clinical stages
 
-**Audio-Based Depression Detection from Real Counseling Conversations**
-* Nov 2025 – Apr 2026
-* Speech processing, Wav2Vec, clinical audio analysis
-  * Developed preprocessing pipeline for noisy counseling audio using Wiener denoising, Whisper transcription, speaker diarization
-  * Compared MFCC-BiLSTM and Wav2Vec models for depression-related classification with subject-level split and class-balanced loss
-  * Used SpeechBrain-based emotion profiling to analyze speech distributions across clinical symptom groups
-  * Identified task boundaries through failure analysis on emotion-change regression and EI-stage classification
+* **MTFNet: Emotion Monitoring in Collaborative Learning** *(First-author, APSIPA ASC 2024)* | Oct 2022 – Sep 2024
+  * Collected and synchronized classroom video/audio data for real collaborative sessions
+  * Built multi-scale transformer framework: 67.5% accuracy on DFEW emotion dataset
+  * Analyzed student participation and affective states in group learning
+
+* **Driver Fatigue Detection Challenge** | May 2022 – Jun 2022
+  * Achieved 99.97% accuracy using EfficientNetB7 with PS-KD and test-time augmentation
+  * **3rd Place** in iFLYTEK competition
 
 ## Technical Skills
 
-**Machine Learning & Deep Learning**
-* Python, C++, PyTorch, Hugging Face Transformers/Datasets, vLLM, scikit-learn
-
-**Computer Vision & NLP**
-* YOLOv8, InsightFace, OpenCV, scikit-image, Whisper, SpeechBrain
-
-**Tools & Infrastructure**
-* Git, Docker, HPC clusters, LaTeX, Jupyter, WandB
-
-**Languages**
-* Chinese Mandarin (Native), English (C1)
+* **ML/DL**: Python, C++, PyTorch, Hugging Face (Transformers/Datasets), vLLM, scikit-learn
+* **Vision/Audio**: YOLOv8, InsightFace, OpenCV, scikit-image, Whisper, SpeechBrain
+* **Tools**: Git, Docker, HPC, LaTeX, Jupyter, WandB
+* **Languages**: Chinese Mandarin (Native), English (C1)
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
