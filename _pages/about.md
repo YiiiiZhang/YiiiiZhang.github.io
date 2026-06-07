@@ -90,3 +90,15 @@ Final Grade: 87/100 (Top 5%); Focus: Computer Vision & Emotion Recognition
 **Vision & Audio**: YOLOv8, InsightFace, OpenCV, Whisper, SpeechBrain  
 **Infrastructure**: Git, Docker, HPC, LaTeX, Jupyter, WandB  
 **Languages**: Chinese Mandarin (Native), English (C1)
+
+---
+
+## Beyond the Lab
+
+Beyond research and code, I'm passionate about exploring the world and its cultures.
+
+**Outdoor Adventures**  
+In 2024, I walked **100 km of the Camino de Santiago** in Spain and earned my official pilgrim credential—a journey that blended physical challenge with reflection on what matters. More recently in 2025, I night-hiked Germany's highest peak, **Zugspitze**, summiting under the stars—combining the rush of alpine adventure with the quiet of mountain solitude.
+
+**Interests**  
+I'm a film enthusiast who finds stories—whether on screen or in real life—fascinating. I also enjoy cooking, experimenting with cuisines from different cultures, and seeing food as another form of creative expression.
