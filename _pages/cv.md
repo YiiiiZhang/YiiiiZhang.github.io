@@ -66,7 +66,18 @@ redirect_from:
 * **Languages**: Chinese Mandarin (Native), English (C1)
 
 ## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+**2026**
+
+* Yu Lei*, Xingyang Ge*, **Yi Zhang**, et al. *Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings*. **AAAI 2026** (Accepted). [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:9yKSN-GCB0IC)] [[code](https://github.com/Lucasuuu02/LLM4Brain)]
+
+* **Yi Zhang** et al. *ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Dataset for World Heritage Sites in China*. **EMNLP 2026** (Under review, First-author).
+
+**2025**
+
+* Chengyan Wu, Bolei Ma, et al., **Yi Zhang**, et al. *M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis*. **EMNLP 2025 Main** (Accepted). [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:d1gkVwhDpl0C)] [[dataset](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)]
+
+**2024**
+
+* **Yi Zhang**, FangYuan Liu, JiaJia Song, Qi Zeng, Hui He. *MTFNet: Multi-Scale Transformer Framework for Robust Emotion Monitoring in Group Learning Settings*. **APSIPA ASC 2024** (First-author). [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:u-x6o8ySG0sC)] [[code](https://github.com/YiiiiZhang/MTFNet)]
 
