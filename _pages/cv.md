@@ -34,12 +34,12 @@ redirect_from:
 
 ## Research & Projects
 
-* **ChinaHeritaQA: Culturally-Grounded VQA Benchmark** *(First-author, EMNLP 2026 under review)* | May 2025 – Present
+* **ChinaHeritaQA: Culturally-Grounded VQA Benchmark** *(First-author, EMNLP 2026 under review)* | Dec 2025 – Present
   * 2,279 real-world images, 14,133 bilingual Q&A pairs on Chinese UNESCO World Heritage sites
   * Evaluated 6 open-weight VLMs; revealed perception-reasoning gap in cultural/historical tasks
   * Analyzed failure modes: site confusion, weak grounding, cultural bias
 
-* **LLM–Brain Alignment in Narrative Comprehension** *(Co-author, AAAI 2026 accepted)* | Feb 2025 – May 2025
+* **LLM–Brain Alignment in Narrative Comprehension** *(Co-author, AAAI 2026 accepted)* | Feb 2025 – Dec 2025
   * Extracted layer-wise embeddings from multiple LLMs on bilingual *Little Prince* passages
   * Computed CKA similarity metrics between LLM representations and fMRI brain scans
   * Found alignment in representational structures between neural networks and human brain
@@ -70,12 +70,3 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-## Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

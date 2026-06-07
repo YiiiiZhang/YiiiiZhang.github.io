@@ -23,7 +23,7 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
     <div style="font-weight: bold; font-size: 16px;"> Dec 2025</div>
-    <p><strong>AAAI 2026 Accepted!</strong> Our paper "Do Large Language Models Think Like the Brain?" has been accepted. This work explores how LLM representations align with human brain activity during language comprehension. [[paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:9yKSN-GCB0IC)]</p>
+    <p><strong>AAAI 2026 Accepted!</strong> Our paper "Do Large Language Models Think Like the Brain?" has been accepted. This work explores how LLM representations align with human brain activity during language comprehension. </p>
   </div>
 </div>
 
@@ -31,7 +31,7 @@ Beyond research and code, I'm passionate about exploring the world—hiking moun
   <div style="position: relative;">
     <div style="position: absolute; left: -29px; width: 20px; height: 20px; background: #4a90e2; border-radius: 50%; border: 3px solid white;"></div>
     <div style="font-weight: bold; font-size: 16px;">Sep 2025</div>
-    <p><strong>EMNLP 2025 Main Accepted!</strong> M-ABSA (Multilingual Aspect-Based Sentiment Analysis) dataset is now accepted at EMNLP 2025. Excited to contribute to multilingual NLP research. [dataset](https://huggingface.co/datasets/Multilingual-NLP/M-ABSA)</p>
+    <p><strong>EMNLP 2025 Main Accepted!</strong> M-ABSA (Multilingual Aspect-Based Sentiment Analysis) dataset is now accepted at EMNLP 2025. Excited to contribute to multilingual NLP research. </p>
   </div>
 </div>
 
