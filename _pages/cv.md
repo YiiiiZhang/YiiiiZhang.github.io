@@ -7,6 +7,27 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  table {
+    border: none !important;
+    width: auto !important;
+  }
+  
+  table, thead, tbody, tr, td, th {
+    border: none !important;
+    background-color: transparent !important;
+  }
+  
+  td {
+    padding: 0 !important;
+    border: none !important;
+  }
+  
+  th {
+    border: none !important;
+  }
+</style>
+
 {% include base_path %}
 
 ## Education
