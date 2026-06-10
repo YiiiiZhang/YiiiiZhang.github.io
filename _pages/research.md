@@ -18,22 +18,22 @@ and my ongoing research examines instruction-following evaluation for dietary re
 
 ## Research Experience
 
-**ChinaHeritaQA: Culturally-Grounded VQA Benchmark** *(First-author, EMNLP 2026 under review)*  
+**ChinaHeritaQA: Culturally-Grounded VQA Benchmark** *(First-author, EMNLP 2026 under review)*   
 **May 2025 – Present** | SODA Lab, LMU Munich
 
-I'm developing a bilingual benchmark with 2,279 real-world images of Chinese UNESCO World Heritage sites and 14,133 Q&A pairs to understand why state-of-the-art vision models fail when reasoning about culture and history. Even models with strong visual recognition stumble on questions about historical periods, architectural functions, and cultural significance. This work reveals a critical gap between perception and reasoning that current VLMs haven't bridged. [[code & data](https://huggingface.co/)]
+We developed  a bilingual VQA benchmark with 2,279 in-the-wild images and 14,133 Chinese/English QA pairs to evaluate VLM limitations in cultural, historical, functional, and architectural reasoning on Chinese UNESCO World Heritage sites.Evaluated six open-weight VLMs against a human baseline, revealing that strong visual recognition does not reliably transfer to historical, functional, and architectural reasoning. [[paper](https://arxiv.org/abs/2606.08959)][[Huggingface](https://huggingface.co/datasets/Multilingual-NLP/ChinaHeritaQA)]
 
-**LLM--Brain Alignment in Narrative Comprehension** 
+**LLM--Brain Alignment in Narrative Comprehension**   
 **May 2025 – Dec 2025** | SODA Lab, LMU Munich
 
-Developed a computational workflow aligning LLMs with fMRI data using layer-wise sentence embeddings (The Little Prince) and CKA similarity analysis. Results revealed that intermediate LLM layers best match human brain activations, and advanced models exhibit 'brain-like' semantic hierarchies, indicating shared language processing mechanisms.
+We developed a computational workflow aligning LLMs with fMRI data using layer-wise sentence embeddings (The Little Prince) and CKA similarity analysis. Results revealed that intermediate LLM layers best match human brain activations, and advanced models exhibit 'brain-like' semantic hierarchies, indicating shared language processing mechanisms.
 
-**Audio-Based Depression Detection from Real Counseling Conversations **  
+**Audio-Based Depression Detection from Real Counseling Conversations**  
 **Nov 2025 – Mar 2026** | MDA Lab, Erlangen-Nurmberg University
 
 Depression leaves traces in speech—pacing, tone, and word choice. I'm building models that extract these signals from real, noisy counseling conversations. The challenge isn't just processing audio (Whisper + speaker diarization), but understanding the limits: audio alone struggles with mood fluctuations and complex clinical stages, highlighting where multimodal approaches become necessary.
 
-**Multimodal Emotion Monitoring in Collaborative Learning** 
+**Multimodal Emotion Monitoring in Collaborative Learning**   
 **Oct 2022 – Sep 2024** | [Prof. HuiHe](https://fas.bnu.edu.cn/jyjg/xsgk/sjkxydsjjsx1/xsszsjkx/sjkxydsjjsxfx1/4a9e8fa035924c6298dd0ee8d73273e0.htm), BNU
 
 In this project, I was responsible for the entire workflow, from data collection, cleaning and processing, through to model architecture selection and development, and finally the application of the results. We collected a large volume of raw video footage of group collaborative learning from real-world classrooms. We then collaborated with [Prof. Zengqi](https://fe.bnu.edu.cn/pc/cms1info/resume/50/226)'s team to identify the emotional features and categories necessary for understanding student states within an educational setting. Ultimately, we built a multimodal perception pipeline incorporating face detection, identity recognition, and temporal emotion modelling for real-world classroom interaction analysis.
