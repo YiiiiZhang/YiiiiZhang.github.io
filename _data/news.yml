@@ -1,0 +1,18 @@
+# Homepage "News" timeline. Newest first. `text` supports Markdown.
+- date: "Dec 2025"
+  text: "**AAAI 2026 accepted!** Our paper *Do Large Language Models Think Like the Brain?* was accepted — exploring how LLM representations align with human brain activity during language comprehension."
+
+- date: "Sep 2025"
+  text: "**EMNLP 2025 Main accepted!** *M-ABSA*, a multilingual aspect-based sentiment analysis dataset, is accepted at EMNLP 2025."
+
+- date: "Aug 2025"
+  text: "**Summited Zugspitze by night** — a night hike to Germany's highest peak (2,962 m) under the stars."
+
+- date: "May 2025"
+  text: "**Walked the Camino de Santiago** — completed 100 km of the pilgrimage route and earned the official pilgrim credential."
+
+- date: "Feb 2025"
+  text: "**Joined SODA Lab, LMU Munich** as a part-time Research Assistant."
+
+- date: "Oct 2024"
+  text: "**Started my M.Sc. in Data Science at FAU**, focusing on machine learning and AI."

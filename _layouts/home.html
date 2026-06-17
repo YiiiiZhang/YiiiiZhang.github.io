@@ -1,0 +1,65 @@
+---
+layout: base
+---
+<main class="wrap">
+
+  <header class="hero">
+    <h1>{{ site.author.name }}</h1>
+    <p class="affiliation">{{ page.subtitle }}</p>
+  </header>
+
+  <section class="intro">
+    <div class="intro-text">
+      {{ content }}
+    </div>
+    <div class="intro-photo">
+      <img src="{{ '/images/' | append: site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+    </div>
+  </section>
+
+  <div class="social">
+    {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" title="Google Scholar" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i></a>{% endif %}
+    {% if site.author.github %}<a href="{{ site.author.github }}" title="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>{% endif %}
+    {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i></a>{% endif %}
+    {% if page.email %}<a href="mailto:{{ page.email }}" title="Email"><i class="fas fa-envelope"></i></a>{% endif %}
+  </div>
+
+  {% if site.data.news %}
+  <section class="section news">
+    <h2>News</h2>
+    <div class="news-list">
+      {% for item in site.data.news %}
+      <div class="news-item">
+        <div class="news-date">{{ item.date }}</div>
+        <div class="news-body">{{ item.text | markdownify }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if site.data.publications %}
+  <section class="section publications">
+    <h2>Publications</h2>
+    {% for pub in site.data.publications %}
+    <div class="pub">
+      <div class="pub-thumb">
+        <img src="{{ pub.image | default: '/images/500x300.png' | relative_url }}" alt="{{ pub.title }}">
+      </div>
+      <div class="pub-info">
+        {% if pub.venue %}<span class="pub-venue">{{ pub.venue }}</span>{% endif %}
+        <p class="pub-title">{{ pub.title }}</p>
+        <p class="pub-authors">{{ pub.authors }}</p>
+        {% if pub.note %}<p class="pub-meta">{{ pub.note }}</p>{% endif %}
+        {% if pub.links %}
+        <div class="pub-links">
+          {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+</main>

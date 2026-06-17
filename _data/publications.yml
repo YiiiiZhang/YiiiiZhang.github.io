@@ -1,0 +1,49 @@
+# Homepage "Publications" cards.
+# `image`: path to a thumbnail in /images/ (e.g. /images/chinaheritaqa.png).
+#          If omitted, a placeholder is shown — replace it with a real figure.
+# `authors`: wrap your own name in <span class="me">...</span> to highlight it.
+# `links`: list of { name, url } buttons.
+
+- title: "ChinaHeritaQA: A Culturally-Grounded Visual Question Answering Dataset for World Heritage Sites in China"
+  authors: '<span class="me">Yi Zhang*</span>, Bolei Ma*, et al.'
+  venue: "EMNLP 2026"
+  note: "Under review · First author"
+  image: # /images/chinaheritaqa.png
+  links:
+    - name: "arXiv"
+      url: "https://arxiv.org/abs/2606.08959"
+    - name: "Dataset"
+      url: "https://huggingface.co/datasets/Multilingual-NLP/ChinaHeritaQA"
+
+- title: "Do Large Language Models Think Like the Brain? Sentence-Level Evidence from fMRI and Hierarchical Embeddings"
+  authors: 'Yu Lei*, Xingyang Ge*, <span class="me">Yi Zhang</span>, et al.'
+  venue: "AAAI 2026"
+  note: "Accepted"
+  image: # /images/llm4brain.png
+  links:
+    - name: "Paper"
+      url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:9yKSN-GCB0IC"
+    - name: "Code"
+      url: "https://github.com/Lucasuuu02/LLM4Brain"
+
+- title: "M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis"
+  authors: 'Chengyan Wu, Bolei Ma, ..., <span class="me">Yi Zhang</span>, et al.'
+  venue: "EMNLP 2025 Main"
+  note: "Accepted"
+  image: # /images/mabsa.png
+  links:
+    - name: "Paper"
+      url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:d1gkVwhDpl0C"
+    - name: "Dataset"
+      url: "https://huggingface.co/datasets/Multilingual-NLP/M-ABSA"
+
+- title: "MTFNet: Multi-Scale Transformer Framework for Robust Emotion Monitoring in Group Learning Settings"
+  authors: '<span class="me">Yi Zhang</span>, FangYuan Liu, JiaJia Song, Qi Zeng, Hui He'
+  venue: "APSIPA ASC 2024"
+  note: "First author"
+  image: # /images/mtfnet.png
+  links:
+    - name: "Paper"
+      url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:u-x6o8ySG0sC"
+    - name: "Code"
+      url: "https://github.com/YiiiiZhang/MTFNet"

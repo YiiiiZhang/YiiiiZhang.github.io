@@ -3,7 +3,12 @@
     "allow": [
       "Bash(claude config *)",
       "Skill(update-config)",
-      "Skill(update-config:*)"
+      "Skill(update-config:*)",
+      "WebFetch(domain:slhleosun.github.io)",
+      "Bash(which jekyll *)",
+      "Bash(ruby --version)",
+      "Bash(bundle --version)",
+      "PowerShell($cmds = 'ruby','jekyll','bundle','gem','docker'; foreach\\($c in $cmds\\){ $p = \\(Get-Command $c -ErrorAction SilentlyContinue\\).Source; if\\($p\\){ \"$c -> $p\" } else { \"$c -> \\(not found\\)\" } })"
     ],
     "additionalDirectories": [
       "C:\\Users\\HBen_\\.claude"
