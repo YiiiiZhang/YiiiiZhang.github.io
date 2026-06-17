@@ -12,4 +12,7 @@ Whenever I feel lost, want to escape, or get discouraged, a good meal paired wit
 
 I'm constantly amazed by the vastness of this world — from the workings of society at large to the texture of the human body and the flowers and grass around me, it all fascinates me. Faced with the endless unknown, I often feel small; but it's precisely that smallness that keeps me firmly committed to learning and exploring.
 
-*Photos coming soon — drop images into `/images/` and add them here.*
+<blockquote style="margin:36px 0 0; padding-left:18px; border-left:3px solid #d0d0d0; color:#888; font-style:italic;">
+  Nothing matters so much.
+  <footer style="margin-top:6px; font-style:normal; font-size:0.9rem; color:#999;">— 蔡澜</footer>
+</blockquote>
