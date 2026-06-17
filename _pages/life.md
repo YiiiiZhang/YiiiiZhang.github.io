@@ -6,10 +6,10 @@ permalink: /life/
 
 Beyond code and research, I'm a curious and enthusiastic explorer.
 
-抛开代码与科研，生活中的我，是一个热烈且好奇的探索者。我通过各种运动感受生命力的澎湃（打篮球时的肾上腺飙升、健身时肌肉的不断撕裂与重构、攀岩时的手脚协调，以及在自然/乡野中徒步），不同的运动不断重塑着我对手脚、呼吸与内心协作的感知。除此之外，文字与光影是我的避风港，我爱看各类电影（恐怖片除外），在我看来，电影是一个理想世界，有着我们对于世间真、善、美的期待。我也非常喜欢美食，也经常自己下厨房，体验将食材变成食物的过程，我尝试过各种中餐菜系与多种甜品。
+I feel the surge of life through all kinds of sports — the adrenaline rush of playing basketball, the constant tearing and rebuilding of muscle while training, the hand-foot coordination of climbing, and hiking through nature and the countryside. Each sport keeps reshaping how I sense the cooperation between my hands, my breath, and my inner self. Words and light-and-shadow are my shelter, too: I love watching all sorts of films (except horror). To me, cinema is an ideal world that holds our hopes for what is true, good, and beautiful. I'm also passionate about food and often cook for myself, savoring the process of turning ingredients into a meal — I've tried many regional Chinese cuisines and all kinds of desserts.
 
-每当我迷茫逃避或是沮丧之时，一份美食 + 一部单纯的喜剧电影，一个脱口秀专场亦或是美食纪录片，总能让我恢复前进的动力。
+Whenever I feel lost, want to escape, or get discouraged, a good meal paired with a lighthearted comedy, a stand-up special, or a food documentary always helps me recover the drive to move forward.
 
-我常常惊叹于这个世界的浩瀚：大到社会的运作逻辑，小到人体的肌理结构、身旁的一花一草，都让我着迷。面对这无尽的未知，我常觉自身渺小，但正是这份渺小，让我坚定地保持学习与探索。
+I'm constantly amazed by the vastness of this world — from the workings of society at large to the texture of the human body and the flowers and grass around me, it all fascinates me. Faced with the endless unknown, I often feel small; but it's precisely that smallness that keeps me firmly committed to learning and exploring.
 
 *Photos coming soon — drop images into `/images/` and add them here.*
