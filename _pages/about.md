@@ -2,8 +2,7 @@
 layout: home
 permalink: /
 title: "About"
-subtitle: "M.Sc. Data Science @ FAU 
-subtitle: "Research Assistant @ SODA Lab, LMU Munich"
+subtitle: "M.Sc. Data Science @ FAU<br>Research Assistant @ SODA Lab, LMU Munich"
 email: "HBen_ZY@outlook.com"
 redirect_from:
   - /about/
