@@ -9,7 +9,7 @@
   authors: '<span class="me">Yi Zhang*</span>, Bolei Ma*, et al.'
   venue: "ACL ARR May Under review"
   note: "Preprint · First author"
-  image: # /images/publications/chinaheritaqa.png
+  image: /images/publications/chinaheritaqa.png
   links:
     - name: "arXiv"
       url: "https://arxiv.org/abs/2606.08959"
@@ -20,7 +20,7 @@
   authors: 'Yu Lei*, Xingyang Ge*, <span class="me">Yi Zhang</span>, et al.'
   venue: "AAAI 2026"
   note: "Accepted"
-  image: # /images/publications/llm4brain.png
+  image: /images/publications/llm4brain.png
   links:
     - name: "Paper"
       url: "https://ojs.aaai.org/index.php/AAAI/article/view/37022"
@@ -31,7 +31,7 @@
   authors: 'Chengyan Wu, Bolei Ma, ..., <span class="me">Yi Zhang</span>, et al.'
   venue: "EMNLP 2025 Main"
   note: "Accepted"
-  image: # /images/publications/mabsa.png
+  image: /images/publications/mabsa.png
   links:
     - name: "Paper"
       url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:d1gkVwhDpl0C"
@@ -42,7 +42,7 @@
   authors: '<span class="me">Yi Zhang</span>, FangYuan Liu, JiaJia Song, Qi Zeng, Hui He'
   venue: "APSIPA ASC 2024"
   note: "First author"
-  image: # /images/publications/mtfnet.png
+  image: /images/publications/mtfnet.png
   links:
     - name: "Paper"
       url: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Lxw9aQ8AAAAJ&citation_for_view=Lxw9aQ8AAAAJ:u-x6o8ySG0sC"
