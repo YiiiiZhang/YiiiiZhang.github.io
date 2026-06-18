@@ -11,6 +11,4 @@ redirect_from:
 
 I'm a Data Science graduate student at **Friedrich-Alexander-Universität
 Erlangen–Nürnberg (FAU)** in Germany, and a part-time Research Assistant at
-**SODA Lab, LMU Munich**. I investigate how foundation models reason across
-languages, cultures, and human cognition — building bridges between AI
-evaluation and real-world impact.
+**SODA Lab, LMU Munich**. I investigate how foundation models reason across languages, cultures, and human cognition — advancing AI research toward systems that create meaningful real-world impact.
