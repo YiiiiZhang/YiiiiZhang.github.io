@@ -4,13 +4,14 @@ title: "Life"
 permalink: /life/
 ---
 
-Beyond code and research, I'm a curious and enthusiastic explorer.
+Beyond code and research, I’m a curious and enthusiastic explorer.
 
-I feel the surge of life through all kinds of sports — the adrenaline rush of playing basketball, the constant tearing and rebuilding of muscle while training, the hand-foot coordination of climbing, and hiking through nature and the countryside. Each sport keeps reshaping how I sense the cooperation between my hands, my breath, and my inner self. Words and light-and-shadow are my shelter, too: I love watching all sorts of films (except horror). To me, cinema is an ideal world that holds our hopes for what is true, good, and beautiful. I'm also passionate about food and often cook for myself, savoring the process of turning ingredients into a meal — I've tried many regional Chinese cuisines and all kinds of desserts.
+I find energy in movement — from basketball and strength training to climbing and hiking through nature and the countryside. Sports keep me aware of my body, breath, and inner balance. I also find comfort in stories and light: films, especially comedies, documentaries, and everything except horror, are a way for me to reconnect with hope, beauty, and imagination.
 
-Whenever I feel lost, want to escape, or get discouraged, a good meal paired with a lighthearted comedy, a stand-up special, or a food documentary always helps me recover the drive to move forward.
+Food is another important part of my life. I enjoy cooking for myself, exploring regional cuisines, and making desserts. When I feel lost or discouraged, a good meal together with a lighthearted film, stand-up show, or food documentary often helps me regain the strength to move forward.
 
-I'm constantly amazed by the vastness of this world — from the workings of society at large to the texture of the human body and the flowers and grass around me, it all fascinates me. Faced with the endless unknown, I often feel small; but it's precisely that smallness that keeps me firmly committed to learning and exploring.
+I’m constantly amazed by the vastness of the world — from society and human nature to the body, flowers, and grass around me. The more I learn, the smaller I feel; yet that sense of smallness is exactly what keeps me curious, humble, and committed to exploring.
+
 
 <blockquote style="margin:36px 0 0; padding-left:18px; border-left:3px solid #d0d0d0; color:#888; font-style:italic;">
   Nothing matters so much.
