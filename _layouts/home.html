@@ -50,7 +50,7 @@ layout: base
         {% if pub.venue %}<span class="pub-venue">{{ pub.venue }}</span>{% endif %}
         <p class="pub-title">{{ pub.title }}</p>
         <p class="pub-authors">{{ pub.authors }}</p>
-        {% if pub.note %}<p class="pub-meta">{{ pub.note }}</p>{% endif %}
+
         {% if pub.links %}
         <div class="pub-links">
           {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a>{% endfor %}
