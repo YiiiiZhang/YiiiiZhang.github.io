@@ -1,4 +1,7 @@
 # Homepage "News" timeline. Newest first. `text` supports Markdown.
+- date: "Nov 2026"
+  text: "**EACL 2027 Main accepted!** *ChinaHeritaQA*, a culturally grounded visual question answering dataset for World Heritage sites in China, was accepted at EACL 2027 Main."
+
 - date: "Dec 2025"
   text: "**AAAI 2026 accepted!** Our paper *Do Large Language Models Think Like the Brain?* was accepted — exploring how LLM representations align with human brain activity during language comprehension."
 
